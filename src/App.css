@@ -54,7 +54,7 @@
 .yellow{
   width: 6px;
   height: 8px;
-  background-color: yellow;
+  background-color: hsl(49, 51%, 47%);
   border: gray;
   margin: 1px;
   color: white;
@@ -68,7 +68,7 @@
 .green{
   width: 6px;
   height: 8px;
-  background-color: green;
+  background-color: hsl(115, 29%, 43%);
   border: gray;
   margin: 1px;
   color: white;
